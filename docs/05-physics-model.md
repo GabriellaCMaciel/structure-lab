@@ -526,10 +526,10 @@ Check against the standard's own table (Class A, z ≤ 5 m): I 1.06, II 0.94, II
 
 **Where the values were checked** (the standards themselves are paid documents)
 
-- Bastos, P. S. *Alvenaria Estrutural* (course notes, UNESP Bauru) — reproduces NBR 16868-1 Tables 13, 14 and 15.
+- *Alvenaria Estrutural*, course notes, UNESP Bauru (Faculdade de Engenharia) — reproduces NBR 16868-1 Tables 13, 14 and 15.
 - Wahrhaftig, A. M. *Ação do vento em estruturas esbeltas com efeito geométrico* (Blucher, open access) — reproduces the NBR 6123 S2 parameters, S2 table and the dynamic pressure formula.
 - University of São Paulo course material on wind actions (e-Disciplinas) — NBR 6123 parameter table and classes.
-- Pereira et al., paper on the seismic assessment of a church in Sobral (Frattura ed Integrità Strutturale, no. 45) — NBR 15421 zone accelerations.
+- Paper on the seismic assessment of the Nossa Senhora das Dores Church in Sobral, Ceará (*Frattura ed Integrità Strutturale*, no. 45) — NBR 15421 zone accelerations.
 
 **Textbook theory**
 
