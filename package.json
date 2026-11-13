@@ -1,0 +1,17 @@
+{
+  "name": "structure-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A 3D physics and structural engineering lab for curious people",
+  "author": "Gabriella Swarttz",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0"
+  }
+}
